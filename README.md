@@ -1,3 +1,3 @@
 AndroidMvc
 ==========
-Mvc patern for Android developement.
+Mvc patern for Android development.
